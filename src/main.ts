@@ -1,4 +1,4 @@
 import { sayHello } from './scripts/modules/Hello';
-import './main.sass';
+import './main.scss';
 
 document.addEventListener('DOMContentLoaded', sayHello, false);
