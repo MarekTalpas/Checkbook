@@ -3,6 +3,6 @@ import { getNode } from './utils';
 
 export const sayHello = () => {
   const container: HTMLElement = renderContainer();
-  container.textContent = 'Hello world!';
+  container.textContent = 'Hello world!!!';
   document.body.appendChild(container);
 };
